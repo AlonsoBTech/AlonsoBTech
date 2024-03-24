@@ -21,7 +21,7 @@
   - AZ-900 Azure Fundamentals
   - CLF-C02 AWS Certified Cloud Practitoner 
 - 🌱 I’m currently focusing on SAA-C03 AWS Certified Solutions Architect as I build my skills in Terraform, Python and Linux. 
-- 📫 How to reach me: 
+- 📫 How to reach me: linkedin: www.linkedin.com/in/alonso-braithwaite
 
 <!--
 **AlonsoBTech/AlonsoBTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
