@@ -8,15 +8,14 @@
 - 😄 Just a little something about myself:
 
    I'm an passionate IT ethusiast who enjoying building cloud architecture. Working in and with the
-   cloud has been a fun and passionate journey for me (the satisfying feeling of finally getting
-   my Terraform code to work is just amazing) which I will continue to improve and make myself better! 😄
-
+   cloud has been a fun and passionate journey for me (being able to deploy my infrastucture using
+   Terraform is such a satisfying feeling) which I will continue to improve and make myself better! 😄
 - 🔭 I’m currently working on further enhancing my cloud skills and am enjoying the process! 😄
 - 🚀 I currently hold the following Certifications:
   - AZ-900 Azure Fundamentals
   - CLF-C02 AWS Certified Cloud Practitoner 
 - 🌱 I’m currently focusing on SAA-C03 AWS Certified Solutions Architect as I continue to build my skills in 
-      Terraform, Python and Linux.
+      Terraform, Python, Linux and Windows.
 - View some of my hands on projects here. Click: [Terraform AWS Project](https://github.com/AlonsoBTech/AWS-Project-Developer-Environment) | [Terraform AWS CICD Pipeline](https://github.com/AlonsoBTech/AWS-CICD-Pipeline)
 - 📫 How to reach me:
 <p align="left">
