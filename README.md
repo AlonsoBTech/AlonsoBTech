@@ -7,7 +7,7 @@
 
 - 😄 Just a little something about myself:
 
-   I'm a passionate IT ethusiast who enjoying building cloud architecture. Working in and with the
+   I'm a passionate I.T ethusiast who enjoying building cloud architecture. Working in and with the
    cloud has been a fun and passionate journey for me (being able to deploy my infrastucture using
    Terraform is such a satisfying feeling) which I will continue to improve and make myself better! 😄
 - 🔭 I’m currently working on further enhancing my cloud skills and am enjoying the process! 😄
