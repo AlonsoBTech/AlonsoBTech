@@ -1,11 +1,12 @@
-            ![_186b28d2-e59b-4c4a-ad25-e9049f4a066b](https://github.com/AlonsoBTech/AlonsoBTech/assets/160416175/2977f4b0-80c5-4c4d-aa0e-b3e0b99aa67b)
+### ![_186b28d2-e59b-4c4a-ad25-e9049f4a066b](https://github.com/AlonsoBTech/AlonsoBTech/assets/160416175/2977f4b0-80c5-4c4d-aa0e-b3e0b99aa67b)
 
 ### Hi there 👋 I'm Alonso Braithwaite
 
 > AWS, Terraform, VS Code, Automation
 
 - 😄 Just a little something about myself:
-   I'm an IT ethusiast looking to build my skills and knowledge in the industry to pursue my
+
+  I'm an IT ethusiast looking to build my skills and knowledge in the industry to pursue my
    DevOps and Solutions Architect cloud goals. I have been in customer service roles for 4 years
    and 1 year of doing office management and other roles but none of them sparked my interest and
    passion as much as technology have. Maybe because I have always been around a computer from a
