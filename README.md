@@ -21,7 +21,7 @@
   - AZ-900 Azure Fundamentals
   - CLF-C02 AWS Certified Cloud Practitoner 
 - 🌱 I’m currently focusing on SAA-C03 AWS Certified Solutions Architect as I continue to build my skills in 
-   Terraform, Python and Linux.
+      Terraform, Python and Linux.
 - View some of my hands on projects here. Click: [Terraform AWS Project](https://github.com/AlonsoBTech/AWS-Project-Two-Tier-Architecture) | [CPanel to AWS Migration](https://github.com/AlonsoBTech/CPanel-to-AWS-Website-Migration) | [Terraform AWS CICD Pipeline](https://github.com/AlonsoBTech/AWS-CICD-Pipeline)
 - 📫 How to reach me:
 <p align="left">
