@@ -21,7 +21,8 @@
   - AZ-900 Azure Fundamentals
   - CLF-C02 AWS Certified Cloud Practitoner 
 - 🌱 I’m currently focusing on SAA-C03 AWS Certified Solutions Architect as I build my skills in Terraform, Python and 
-   Linux. 
+   Linux.
+- View some of my hands on projects here. Click. [Terraform AWS Project](https://https://github.com/AlonsoBTech/AWS-Project-Two-Tier-Architecture) | [CPanel to AWS Migration](https://https://github.com/AlonsoBTech/CPanel-to-AWS-Website-Migration) | [Terraform AWS CICD Pipeline](https://https://github.com/AlonsoBTech/AWS-CICD-Pipeline)
 - 📫 How to reach me:
 <p align="left">
   <a href="https://www.linkedin.com/in/alonso-braithwaite/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
