@@ -1,6 +1,6 @@
 ### ![_186b28d2-e59b-4c4a-ad25-e9049f4a066b](https://github.com/AlonsoBTech/AlonsoBTech/assets/160416175/2977f4b0-80c5-4c4d-aa0e-b3e0b99aa67b)
 
-                                  ### Hi there 👋 I'm Alonso Braithwaite
+                  ### Hi there 👋 I'm Alonso Braithwaite
 
 > AWS, Terraform, VS Code, Automation
 
