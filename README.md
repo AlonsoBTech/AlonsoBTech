@@ -1,4 +1,5 @@
-### ![_186b28d2-e59b-4c4a-ad25-e9049f4a066b](https://github.com/AlonsoBTech/AlonsoBTech/assets/160416175/2977f4b0-80c5-4c4d-aa0e-b3e0b99aa67b)
+### ![_03a26b1f-64db-47a0-bd37-a21bba140178](https://github.com/AlonsoBTech/AlonsoBTech/assets/160416175/581ee001-9412-4043-be30-971a6aa56ed7)
+
 
 ### Hi there 👋 I'm Alonso Braithwaite
 
