@@ -16,7 +16,7 @@
   - CLF-C02 AWS Certified Cloud Practitoner 
 - 🌱 I’m currently focusing on SAA-C03 AWS Certified Solutions Architect as I continue to build my skills in 
       Terraform, Python, Linux and Windows.
-- View some of my hands on projects here. Click: [Terraform AWS Project](https://github.com/AlonsoBTech/AWS-Project-Developer-Environment) | [Terraform AWS CICD Pipeline](https://github.com/AlonsoBTech/AWS-CICD-Pipeline-GitHub-Actions)
+- View some of my hands on projects here. Click: [Terraform AWS Project](https://github.com/AlonsoBTech/AWS-Project-Three-Tier-Architecture) | [Terraform AWS CICD Pipeline](https://github.com/AlonsoBTech/AWS-CICD-Pipeline-GitHub-Actions)
 - 📫 How to reach me:
 <p align="left">
   <a href="https://www.linkedin.com/in/alonso-braithwaite/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
